@@ -1,6 +1,6 @@
 # Java DSA Practice Repository
 
-## Overview
+## Overview:
 
 This repository contains my Java practice solutions for Data Structures and Algorithms. It is a collection of problems solved during different phases of learning, including foundational concepts, object-oriented programming, and problem-solving exercises inspired by platforms like LeetCode.
 
@@ -8,7 +8,7 @@ The main goal of this repository is to maintain consistency in coding practice a
 
 ---
 
-## Contents
+## Contents:
 
 This repository includes Java solutions covering the following areas:
 
@@ -19,7 +19,7 @@ This repository includes Java solutions covering the following areas:
 
 ---
 
-## Repository Structure
+## Repository Structure:
 
 The repository is organized as a single collection of Java files. There is no strict folder separation. Files are named based on the problem or concept they represent.
 
@@ -27,7 +27,7 @@ All solutions exist in a unified workspace for simplicity and ease of access.
 
 ---
 
-## File Naming Convention
+## File Naming Convention:
 
 Each file is named according to the problem or concept it represents.
 
@@ -40,13 +40,13 @@ This naming approach helps in quickly identifying the purpose of each file.
 
 ---
 
-## Programming Language
+## Programming Language:
 
 - Java
 
 ---
 
-## Learning Focus
+## Learning Focus:
 
 This repository focuses on strengthening:
 
@@ -58,7 +58,7 @@ This repository focuses on strengthening:
 
 ---
 
-## Key Areas Covered
+## Key Areas Covered:
 
 - Arrays and Strings
 - Recursion
@@ -76,7 +76,7 @@ This repository focuses on strengthening:
 
 ---
 
-## Approach
+## Approach:
 
 Each problem is solved with a focus on:
 
@@ -87,7 +87,7 @@ Each problem is solved with a focus on:
 
 ---
 
-## Purpose of This Repository
+## Purpose of This Repository:
 
 The purpose of maintaining this repository is to:
 
@@ -98,7 +98,7 @@ The purpose of maintaining this repository is to:
 
 ---
 
-## Note
+## Note:
 
 This repository is continuously evolving as new problems are added and existing solutions are improved over time.
 
