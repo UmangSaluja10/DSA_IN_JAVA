@@ -9,7 +9,6 @@ class Solution {
                 sum += mat[i][n - i - 1];
             }
         }
-
         return sum;
     }
 }
